@@ -1,0 +1,61 @@
+
+collection of data member and member fun is colled class 
+
+Types of classes there are following class
+ 1. single class -->one class make in program called single 
+ 2.Anonumus class--name less a class which does not its own names 
+ 3.Multi class--> if you are make more than onee class.
+
+
+security maintan karta  hai oops.
+
+
+OOPS
+
+
+object :    remote          hard coppy     chair   real word initity(nthings)
+
+
+class:    (Fan) collection of data member and member fun is colled class   soft copy     imaginary initity (goust)  
+
+
+static member fn can we acced with help of using scope resulation we need not to creat any is_object
+ note: the data member static member shoul we 
+we should inislize the static  data member  outside the class 
+
+
+Composit Class:-
+ a composite class  contain of the preves class tha can with help of that invoked the memmere fn of preveos 
+ the member funtion privioiu class frst
+
+
+
+#Friend Funtion:-
+--------------------
+
+Friend fn is used to accssed to private data member and member fn out side the class
+for tha we have to declare friend fn in both class .
+
+
+Constructer:(memory  create  karata )cnstructror is called spacial fn which used to alloccate memory spaace any object run time there are followiing of the constrcuter
+1.default 
+2.paramerized 
+3.copy cmns
+  1.shallow copy
+  2.deep copy
+4.constructer overloading
+5.Destructre: des is used to relesed or rellocate the (memory delete the mommory)
+
+
+
+
+
+
+
+
+Inheritance :-inh is used to access the property of parent class there are 5 types of inheritance
+
+
+    // ---------------------------------------------------------------------------------------------------------
+    // 1.single : in a single inh we used two  classes where the last class is called chaild class nad previous class is called parent class we always 
+    // creat child class and with help  it acess the data member and mem fn both class
